@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">ArtSpace</string>
+    <string name="rick_and_morty">Rick and Morty</string>
+    <string name="any_artist">Any Artist</string>
+    <string name="year_2020">2020</string>
+    <string name="adios_mocosos">Adios Mocosos</string>
+    <string name="year_2010">2010</string>
+    <string name="ahora_si_viene_lo_chido">Ahora si viene lo chido</string>
+    <string name="year_2016">2016</string>
+</resources>
